@@ -1,5 +1,7 @@
-<<<<<<< HEAD
 # golangProject
-=======
 # bvlgari clone coding
->>>>>>> 465bdda (golangproject start)
+
+<div>
+    <p>golang project</p>
+    <p>bvlgari web page clone coding</p>
+</div>
