@@ -1,7 +1,7 @@
 # golangProject
-# bvlgari clone coding
+# insurance website
 
 <div>
     <p>golang project</p>
-    <p>bvlgari web page clone coding</p>
+    <p>insurance website</p>
 </div>
